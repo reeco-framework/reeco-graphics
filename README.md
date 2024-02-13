@@ -5,7 +5,7 @@ description: This is the place for graphics and look and feel assets.
 type: Repository
 licence: Apache-2.0
 credits:
-- https://github.com/enridaga
+- Harriett Cornish <https://www.open.ac.uk/people/hla4>
 ---
 # REECO Graphics
 
