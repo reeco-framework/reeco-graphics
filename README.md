@@ -10,3 +10,4 @@ credits:
 # REECO Graphics
 
 
+This is the place for graphics and look and feel assets.
